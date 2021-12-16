@@ -1,0 +1,1 @@
+La classe de test effectue plus de 50000 tests à cause de la fonction isWellSortedLargeArrays qui traite un tableau de 50000 éléments.
